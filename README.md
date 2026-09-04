@@ -28,5 +28,5 @@ GitHub Pages publishes a public website. All paths are relative so the website w
 - Edit copy in `index.html` and styling in `assets/styles.css`.
 - The five JPEG images were extracted without recompression from the supplied HTML.
 - App Store URLs were not supplied. The availability section says **Coming soon**; replace those informational labels with real download links when the apps are publicly available. Do not substitute a TestFlight invitation or an App Store Connect management URL.
-- This landing page does not add a support form or privacy policy. Those require the owner's approved details/content separately.
+- `support.html` and `privacy.html` provide public support and privacy information, with the owner's approved contact email. Shared page styling is in `legal.css`; neither page adds tracking or a contact-form database.
 - No app source or build numbers were changed.
